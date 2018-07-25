@@ -1,0 +1,15 @@
+{
+  "name": "demokit-simple-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/demokit index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "demokit": "^7.0.0"
+  }
+}
